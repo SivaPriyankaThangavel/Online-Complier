@@ -138,7 +138,7 @@
                </tr>
                <tr>
                     <td></td>
-                    <td><input type="submit" value="Register" onclick="check()">
+                    <td><input type="submit" value="Register" onsubmit="check()">
                </tr>
           </table>
      </form>

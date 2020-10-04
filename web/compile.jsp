@@ -12,7 +12,7 @@
 </tr>
 <tr>
 <td></td>
-<td><input type="submit" value="compile"</td>
+<td><input type="submit" value="compile"></td>
 </tr>
 </table>
 </FORM>
