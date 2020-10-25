@@ -1,5 +1,4 @@
 package encryption;
-import java.math.*;
 public class MathCalc
 {
    //Convert an integer to a Binary String

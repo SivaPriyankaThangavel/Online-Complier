@@ -4,14 +4,9 @@
 
 try
 {
-
-
 String d = request.getParameter("key");
 String n= request.getParameter("nvalue");
 String mess= session.getValue("emsg").toString();
-//out.println(mess);
-
-
 String ct=mess;
 StringTokenizer st = new StringTokenizer(ct,"$");
 String ctmsg = st.nextToken();

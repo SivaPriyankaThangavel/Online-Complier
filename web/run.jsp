@@ -13,7 +13,7 @@
 </tr>
 <tr>
 <td></td>
-<td><input type="submit" value="run"</td>
+<td><input type="submit" value="run">/td>
 </tr>
 </table>
 </FORM>

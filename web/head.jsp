@@ -16,10 +16,10 @@
 		  <td><a href="login.jsp" target="fr2">
           <font color="red" size="4">Login</font></a></td>
 		  
-          <td>&nbsp &nbsp &nbsp<a href="aboutus.jsp" target="fr2">
+          <td>&nbsp; &nbsp; &nbsp;<a href="aboutus.jsp" target="fr2">
           <font color="red" size="4"> About Us</font></a></td>
          
-		  <td>&nbsp &nbsp &nbsp<a href="contacts.jsp" target="fr2">
+		  <td>&nbsp; &nbsp; &nbsp;<a href="contacts.jsp" target="fr2">
           <font color="red" size="4"> Contacts</font></a></td>
           </tr>
 		  </table>
