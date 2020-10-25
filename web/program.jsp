@@ -2,7 +2,7 @@
 <head>
 <title>Program</title>
 </head>
-<body bgcolor="#FF6666" style="background-image: url('bcc.jpeg')">
+<body background-color="#FF6666" style="background-image: url('bcc.jpeg')">
 <br><br><br><br><br>
 <table align="center">
 <tr>

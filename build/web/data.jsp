@@ -8,7 +8,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>JSP Page</title>
     </head>
-    <body bgcolor="pink">
+    <body backgroundColor="pink">
         <br><br><br><br><br><br><br><br>
         <center>
         <font face="Monotype Corsiva" size="20" color="Black">
